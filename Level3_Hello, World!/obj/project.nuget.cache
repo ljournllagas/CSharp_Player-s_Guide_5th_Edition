@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/KAej2/HnqVtiXEpafR0vFWzkgQiL4iwG7DrGfG++c2gc4f0Q/zsP2lHdHp35/5VmC+l74VZxld8o+mpFyS5Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ljour\\OneDrive\\Desktop\\The C# Player's Guide 5th Edition\\CSharp_Player-s_Guide_5th_Edition\\Hello, World!\\Hello, World!.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ljour\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ljour\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ljour\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ljour\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

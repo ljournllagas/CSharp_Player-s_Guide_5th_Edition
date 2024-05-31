@@ -1,0 +1,14 @@
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\bin\Debug\net6.0\Hello, World!.exe
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\bin\Debug\net6.0\Hello, World!.deps.json
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\bin\Debug\net6.0\Hello, World!.runtimeconfig.json
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\bin\Debug\net6.0\Hello, World!.dll
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\bin\Debug\net6.0\Hello, World!.pdb
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\obj\Debug\net6.0\Hello, World!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\obj\Debug\net6.0\Hello, World!.AssemblyInfoInputs.cache
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\obj\Debug\net6.0\Hello, World!.AssemblyInfo.cs
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\obj\Debug\net6.0\Hello, World!.csproj.CoreCompileInputs.cache
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\obj\Debug\net6.0\Hello, World!.dll
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\obj\Debug\net6.0\refint\Hello, World!.dll
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\obj\Debug\net6.0\Hello, World!.pdb
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\obj\Debug\net6.0\Hello, World!.genruntimeconfig.cache
+C:\Users\ljour\OneDrive\Desktop\The C# Player's Guide 5th Edition\CSharp_Player-s_Guide_5th_Edition\Hello, World!\obj\Debug\net6.0\ref\Hello, World!.dll
